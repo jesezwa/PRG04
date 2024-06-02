@@ -1,4 +1,4 @@
-import '../css/style.css'
+import './css/style.css'
 import { Engine, Vector } from "excalibur"
 import { ResourceLoader } from './resources.js'
 import { CreateTileMap, CreateMapGridOverlay } from './createWorld.js'
